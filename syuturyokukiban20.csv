@@ -1,0 +1,54 @@
+Source,D:/job/monozukuri/PCB/syuturyokukiban20/syuturyokukiban20.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,2017/05/12 10:27:31
+
+Title,Monozukuri output board
+Company,(c) JSD
+Revision,2.0
+Date Issue,2017-03-29
+
+Reference,Value,Library,Library Ref
+BZ1,BUZZER,mylib,SPEAKER
+C6,0.1u,device,C_Small
+CN2,302-S101,conn,CONN_01X10
+CN3,302-S101,conn,CONN_01X10
+U1,TD62783,mylib,TD62783
+U2,TD62083,mylib,TD62083
+U4,BD6211F-E2,mylib,BD6211F-E2
+U3,74HC273,mylib,74HC273
+DS1,A-551SRD,mylib,A-551SRD
+DS2,A-551SRD,mylib,A-551SRD
+R5,470,device,R
+R6,470,device,R
+R7,470,device,R
+R8,470,device,R
+R9,470,device,R
+R10,470,device,R
+R11,470,device,R
+R12,470,device,R
+D2,OSTA5131A,mylib,OSTA5131A
+R2,330,device,R
+R3,150,device,R
+R4,150,device,R
+R13,1K,device,R
+Q1,2SK4017,mylib,2SK4017
+Q2,2SK4017,mylib,2SK4017
+Q3,2SK4017,mylib,2SK4017
+Q4,2SK4017,mylib,2SK4017
+CN5,B6B-XH-A,conn,CONN_01X06
+D6,D,device,D
+D5,D,device,D
+D4,D,device,D
+D3,D,device,D
+C4,0.1u,device,C_Small
+CN4,B2B-XH-A,conn,CONN_01X02
+C1,16V470uF,device,CP
+C2,16V100uF,device,CP
+D1,LED,device,LED
+R1,470,device,R
+C3,0.1u,device,C_Small
+CON1,BARREL_JACK,conn,BARREL_JACK
+C7,0.1u,device,C_Small
+R14,33,device,R
+JP2,Jumper,device,Jumper
+JP1,Jumper,device,Jumper

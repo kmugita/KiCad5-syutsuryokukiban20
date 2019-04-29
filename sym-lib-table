@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name syuturyokukiban20-rescue)(type Legacy)(uri ${KIPRJMOD}/syuturyokukiban20-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name power1)(type Legacy)(uri D:/KiCad/5.1.2/share/kicad/library/power.lib)(options "")(descr "")(disabled))
+  (lib (name device)(type Legacy)(uri D:/KiCad/5.1.2/share/kicad/library/device.lib)(options "")(descr "")(disabled))
+  (lib (name 74xx1)(type Legacy)(uri D:/KiCad/5.1.2/share/kicad/library/74xx.lib)(options "")(descr "")(disabled))
+  (lib (name audio)(type Legacy)(uri D:/KiCad/5.1.2/share/kicad/library/audio.lib)(options "")(descr "")(disabled))
+  (lib (name interface)(type Legacy)(uri D:/KiCad/5.1.2/share/kicad/library/interface.lib)(options "")(descr "")(disabled))
+  (lib (name mylib)(type Legacy)(uri D:/KiCad/Library/mylib.lib)(options "")(descr "")(disabled))
+  (lib (name open-project)(type Legacy)(uri D:/KiCad/Library/component/open-project.lib)(options "")(descr "")(disabled))
+)
